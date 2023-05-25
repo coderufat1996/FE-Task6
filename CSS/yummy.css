@@ -1,0 +1,45 @@
+
+.header {
+  background: #fff;
+  transition: all 0.5s;
+  z-index: 997;
+  height: 90px;
+  border-bottom: 1px solid #fff;
+}
+
+.dropdown:hover .alta {
+    position: absolute;
+    display: block;
+}
+
+.salam:hover .sola {
+    position: absolute;
+    display: block;
+    visibility: visible;
+}
+
+.sola{
+    visibility: hidden;
+    margin-left: 110px;
+    
+}
+
+.hover-red:hover{
+    color: red;
+    transition: 0.5s;
+}
+
+header ul a:hover{
+    text-decoration-line: underline;
+    text-decoration-color: red;
+}
+
+.dropdown-menu a:hover{
+    text-decoration: none;
+    color: red;
+    transition: 0.3;
+}
+
+.margin-left{
+    margin-left: 150px;
+}

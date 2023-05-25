@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
+
+
+
+section {
+  margin-top: 70px;
+}
+
+.h-auto {
+  height: auto;
+}
+
+.h-500 {
+  height: 500px;
+}
+
+.h-1000 {
+  height: 1000px;
+}
+
+.mt-90 {
+  margin-top: 90px;
+}
+
+.h-60vh {
+  min-height: 60vh;
+}
+
+.pbtn {
+  font-size: 40px;
+}
+
+.f-size64 {
+  font-size: 64px;
+  font-weight: 700;
+  color: #37373f;
+  font-family: 'Amatic SC', cursive;
+}
+
+.btn-book {
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 36px;
+  border-radius: 50px;
+  transition: 0.5s;
+  color: #fff;
+  background: red;
+  box-shadow: 0 8px 28px rgba(206, 18, 18, 0.2);
+}
+
+.dd {
+  position: fixed;
+}
+
+
+#carouselExampleIndicators{
+  height: 250px;
+}
